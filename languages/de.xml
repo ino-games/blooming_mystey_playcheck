@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Spielmodus"/>
+	<string key="baseGame" value="Basisspiel"/>
+	<string key="scatters" value="Monster-Freispiel-Booster"/>
+	<string key="boostStatus" value="Boost aktiv"/>
+	<string key="boostActive" value="Ja"/>
+	<string key="boostInactive" value="Nein"/>
+	<string key="collectionValue" value="Marken insgesamt"/>
+	<string key="wins" value="Gewinne"/>
+	<string key="payline" value="Gewinnlinie"/>
+	<string key="winSum" value="Gewinnsumme"/>
+	<string key="multiplier" value="Multiplikator"/>
+	<string key="baseWin" value="Basisgewinn"/>
+	<string key="winningSymbols" value="Gewinnsymbole"/>
+	<string key="freeSpins" value="Freispiele"/>
+	<string key="spinsAwarded" value="Drehs gewährt"/>
+	<string key="trail" value="Pfad"/>
+	<string key="spinsAdded" value="Zusätzliche Freispiele gewährt"/>
+	<string key="updatedMultiplier" value="Multiplikatorerhöhung"/>
+	<string key="freeSpin" value="Monster-Freispiele"/>
+	<string key="bigHit" value="Freitag-Wild-Bonus"/>
+	<string key="explodingWild" value="Goldenes Spinnen-Symbol"/>
+	<string key="respin" value="Angestossener Scatter-Neudreh"/>
+	<string key="version" value="Version"/>
+	<string key="gambleForBonus" value="Um Bonus wetten"/>
+	<string key="bet" value="Einsatz"/>
+	<string key="cost" value="Kosten"/>
+	<string key="chanceToWin" value="Gewinnchance"/>
+	<string key="gambleResult" value="Wettergebnis"/>
+	<string key="gambleLost" value="Wette verloren"/>
+	<string key="gambleWon" value="Wette gewonnen"/>
+	<string key="buyBonus" value="Kaufbonus"/>
+</strings>

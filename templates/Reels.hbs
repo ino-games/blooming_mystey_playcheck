@@ -1,0 +1,13 @@
+<!-- Reels -->
+
+<table class="reels reels-{{id}}">
+    {{#each reelWindowInRows}}
+    <tr>
+        {{#each this}}
+        <td>
+            {{> Symbol this}}            
+        </td>
+        {{/each}}
+    </tr>
+    {{/each}}
+</table>

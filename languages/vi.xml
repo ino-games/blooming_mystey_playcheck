@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Chế độ chơi"/>
+	<string key="baseGame" value="Phần chơi chính"/>
+	<string key="scatters" value="Cường Hóa Vòng Quay Miễn Phí Quái Vật"/>
+	<string key="boostStatus" value="Kích hoạt Cường hóa"/>
+	<string key="boostActive" value="Có"/>
+	<string key="boostInactive" value="Không"/>
+	<string key="collectionValue" value="Tổng số Token"/>
+	<string key="wins" value="Tiền thắng"/>
+	<string key="payline" value="Đường trả thưởng"/>
+	<string key="winSum" value="Tổng tiền thắng"/>
+	<string key="multiplier" value="Hệ số"/>
+	<string key="baseWin" value="Chiến thắng phần chơi chính"/>
+	<string key="winningSymbols" value="Biểu tượng chiến thắng"/>
+	<string key="freeSpins" value="Vòng quay miễn phí"/>
+	<string key="spinsAwarded" value="Lượt quay được thưởng"/>
+	<string key="trail" value="Vạch"/>
+	<string key="spinsAdded" value="Vòng quay Miễn phí được thưởng thêm"/>
+	<string key="updatedMultiplier" value="Tăng hệ số"/>
+	<string key="freeSpin" value="Vòng Quay Miễn Phí Quái Vật"/>
+	<string key="bigHit" value="Phần Chơi Thưởng Vạn Năng Thứ Sáu"/>
+	<string key="explodingWild" value="Vạn Năng Nhện Vàng"/>
+	<string key="respin" value="Lượt Quay Lại Biểu Tượng Tặng Thưởng Dịch Chuyển"/>
+	<string key="version" value="Phiên bản"/>
+	<string key="gambleForBonus" value="Cá cược trong Phần chơi thưởng"/>
+	<string key="bet" value="Cược"/>
+	<string key="cost" value="Chi phí"/>
+	<string key="chanceToWin" value="Cơ hội giành Chiến thắng"/>
+	<string key="gambleResult" value="Kết quả cá cược"/>
+	<string key="gambleLost" value="Cá cược Thua"/>
+	<string key="gambleWon" value="Cá cược Thắng"/>
+	<string key="buyBonus" value="Mua Phần chơi thưởng"/>
+</strings>

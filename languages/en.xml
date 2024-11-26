@@ -1,0 +1,47 @@
+﻿<strings>
+  <string key="version" value="Version"/>
+  <string key="baseGame" value="Base game"/>
+  <string key="gameMode" value="Game mode"/>
+  <string key="reel" value="Reel"/>
+  <string key="wins" value="Wins"/>
+  <string key="winSum" value="Win sum"/>
+  <string key="baseWin" value="Base win"/>
+  <string key="winningSymbols" value="Winning symbols"/>
+  <string key="freeSpins" value="Free spins"/>
+  <string key="initialNumberOfFreeSpins" value="Initial number of free spins"/>
+  <string key="totalNumberOfFreeSpins" value="Total number of free spins"/>
+  <string key="freeSpin" value="Monster Free Spins"/>
+  <string key="collection" value="Collection"/>
+  <string key="collectionValue" value="Total Tokens"/>
+  <string key="collectionUpdate" value="Update"/>
+  <string key="bet" value="Bet"/>
+  <string key="payline" value="Payline"/>
+  <string key="buyBonus" value="Buy Bonus"/>
+  <string key="gambleForBonus" value="Gamble for Bonus"/>
+  <string key="cost" value="Cost"/>
+  <string key="chanceToWin" value="Chance to Win"/>
+  <string key="gambleResult" value="Gamble result"/>
+  <string key="gambleLost" value="Gamble Lost"/>
+  <string key="gambleWon" value="Gamble Won"/>
+  <string key="options" value="Pick options"/>
+  <string key="pickCount" value="Pick count"/>
+  <string key="optionsPicked" value="Options picked"/>
+  <string key="picksAdded" value="Picks added"/>
+  <string key="picksRemaining" value="Picks remaining"/>
+  <string key="pickAction" value="PickAction"/>
+  <string key="pickResult" value="PickResult"/>
+  <string key="none" value="None"/>
+  <string key="multiplier" value="Multiplier"/>
+  <string key="bigHit" value="Friday Wild Bonus"/>
+  <string key="scatters" value="Monster Free Spins Booster"/>
+  <string key="trail" value="Trail"/>
+  <string key="explodingWild" value="Golden Spider Wild"/>
+  <string key="explodingWildEnd" value="Golden Spider Wild End"/>
+  <string key="boostStatus" value="Boost Active"/>
+  <string key="boostActive" value="Yes"/>
+  <string key="boostInactive" value="No"/>
+  <string key="respin" value="Nudging Scatter Respin"/>
+  <string key="spinsAwarded" value="Spins Awarded"/>
+  <string key="spinsAdded" value="Extra Free Spins Awarded"/>
+  <string key="updatedMultiplier" value="Multiplier increase"/>
+</strings>

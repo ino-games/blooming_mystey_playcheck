@@ -1,0 +1,27 @@
+<!-- Symbol -->
+<div class="reelSymbol">
+    <img class="symbolImage" src="{{@root.imagePath}}{{symbolImage}}.png" />
+    {{#if overlayImage}}
+        <img class="symbolOverlay" src="{{@root.imagePath}}{{overlayImage}}" />
+    {{/if}}
+    {{!-- {{#switch this.overlay}}
+    {{#case 1}}
+    <img class="symbolOverlay" src="{{@root.imagePath}}${overlayImage}" />
+    {{/case}}
+    {{#case 2}}
+    <img class="symbolOverlay" src="{{@root.imagePath}}x2.png" />
+
+    {{/case}}
+    {{#case 3}}
+    <img class="symbolOverlay" src="{{@root.imagePath}}x3.png" />
+    {{/case}}
+    {{#case 4}}
+    <img class="symbolOverlay" src="{{@root.imagePath}}x4.png" />
+    {{/case}}
+    {{#case 5}}
+    <img class="symbolOverlay" src="{{@root.imagePath}}x5.png" />
+    {{/case}}
+    {{/switch}}
+    {{#if this.overlay}} --}}
+    {{!-- {{/if}} --}}
+</div>

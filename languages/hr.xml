@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Način igre"/>
+	<string key="baseGame" value="Osnovna igra"/>
+	<string key="scatters" value="Pojačanje Čudovišnih Besplatnih Okretanja"/>
+	<string key="boostStatus" value="Pojačanje aktivno"/>
+	<string key="boostActive" value="Da"/>
+	<string key="boostInactive" value="Ne"/>
+	<string key="collectionValue" value="Ukupno tokena"/>
+	<string key="wins" value="Dobici"/>
+	<string key="payline" value="Isplatna linija"/>
+	<string key="winSum" value="Zbroj dobitaka"/>
+	<string key="multiplier" value="Množitelj"/>
+	<string key="baseWin" value="Osnovni dobitak"/>
+	<string key="winningSymbols" value="Dobitni simboli"/>
+	<string key="freeSpins" value="Besplatna okretanja"/>
+	<string key="spinsAwarded" value="Dodijeljena Okretanja"/>
+	<string key="trail" value="Staza"/>
+	<string key="spinsAdded" value="Dodijeljena dodatna Besplatna okretanja"/>
+	<string key="updatedMultiplier" value="Povećanje Množitelja"/>
+	<string key="freeSpin" value="Čudovišna Besplatna Okretanja"/>
+	<string key="bigHit" value="Bonus Zamjenskog Petka"/>
+	<string key="explodingWild" value="Zlatni Zamjenski Pauk"/>
+	<string key="respin" value="Ponovno Okretanje S Poguravajućim Scatterom"/>
+	<string key="version" value="Verzija"/>
+	<string key="gambleForBonus" value="Oklada za bonus"/>
+	<string key="bet" value="Ulog"/>
+	<string key="cost" value="Cijena"/>
+	<string key="chanceToWin" value="Prilika za dobitak"/>
+	<string key="gambleResult" value="Rezultat oklade"/>
+	<string key="gambleLost" value="Oklada izgubljena"/>
+	<string key="gambleWon" value="Oklada dobivena"/>
+	<string key="buyBonus" value="Kupnja Bonusa"/>
+</strings>

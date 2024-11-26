@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="ゲーム モード"/>
+	<string key="baseGame" value="基本ゲーム"/>
+	<string key="scatters" value="モンスター フリー スピン ブースター"/>
+	<string key="boostStatus" value="ブースト アクティブ"/>
+	<string key="boostActive" value="はい"/>
+	<string key="boostInactive" value="いいえ"/>
+	<string key="collectionValue" value="トークンの合計"/>
+	<string key="wins" value="ウィン"/>
+	<string key="payline" value="ペイライン"/>
+	<string key="winSum" value="ウィン合計"/>
+	<string key="multiplier" value="マルチプライヤー"/>
+	<string key="baseWin" value="基本のウィン"/>
+	<string key="winningSymbols" value="ウィン図柄"/>
+	<string key="freeSpins" value="フリー スピン"/>
+	<string key="spinsAwarded" value="獲得したスピン"/>
+	<string key="trail" value="トレイル"/>
+	<string key="spinsAdded" value="追加のフリー スピンが獲得されました"/>
+	<string key="updatedMultiplier" value="マルチプライヤーの増加"/>
+	<string key="freeSpin" value="モンスター フリー スピン"/>
+	<string key="bigHit" value="フライデー ワイルド ボーナス"/>
+	<string key="explodingWild" value="ゴールデン スパイダー ワイルド"/>
+	<string key="respin" value="ナッジ スキャッター再スピン"/>
+	<string key="version" value="バージョン"/>
+	<string key="gambleForBonus" value="ボーナスのギャンブル"/>
+	<string key="bet" value="ベット"/>
+	<string key="cost" value="コスト"/>
+	<string key="chanceToWin" value="獲得チャンス"/>
+	<string key="gambleResult" value="ギャンブルの結果"/>
+	<string key="gambleLost" value="ギャンブル負け"/>
+	<string key="gambleWon" value="獲得ギャンブル"/>
+	<string key="buyBonus" value="ボーナス購入"/>
+</strings>

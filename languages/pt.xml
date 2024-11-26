@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Modo de jogo"/>
+	<string key="baseGame" value="Jogo de base"/>
+	<string key="scatters" value="Reforço Das Voltas Gratuitas Do Monstro"/>
+	<string key="boostStatus" value="Reforço Ativo"/>
+	<string key="boostActive" value="Sim"/>
+	<string key="boostInactive" value="Não"/>
+	<string key="collectionValue" value="Total de Tokens"/>
+	<string key="wins" value="Ganhos"/>
+	<string key="payline" value="Linha de pagamento"/>
+	<string key="winSum" value="Valor do prémio"/>
+	<string key="multiplier" value="Multiplicador"/>
+	<string key="baseWin" value="Prémio de base"/>
+	<string key="winningSymbols" value="Símbolos premiados"/>
+	<string key="freeSpins" value="Voltas gratuitas"/>
+	<string key="spinsAwarded" value="Voltas Atribuídas"/>
+	<string key="trail" value="Percurso"/>
+	<string key="spinsAdded" value="Voltas Gratuitas Adicionais Atribuídas"/>
+	<string key="updatedMultiplier" value="Aumento de multiplicador"/>
+	<string key="freeSpin" value="Voltas Gratuitas Do Monstro"/>
+	<string key="bigHit" value="Bónus Wild Da Friday"/>
+	<string key="explodingWild" value="Wild De Aranha Dourada"/>
+	<string key="respin" value="Repetição De Volta Do Símbolo Livre Que Avança"/>
+	<string key="version" value="Versão"/>
+	<string key="gambleForBonus" value="Aposte para ganhar um bónus"/>
+	<string key="bet" value="Aposta"/>
+	<string key="cost" value="Custo"/>
+	<string key="chanceToWin" value="Possibilidade de Ganhar"/>
+	<string key="gambleResult" value="Resultado da aposta"/>
+	<string key="gambleLost" value="Aposta Perdida"/>
+	<string key="gambleWon" value="Aposta Ganha"/>
+	<string key="buyBonus" value="Comprar Bónus"/>
+</strings>

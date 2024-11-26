@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Режим на игра"/>
+	<string key="baseGame" value="Основна игра"/>
+	<string key="scatters" value="Усилвател На Чудовищни Безплатни Завъртания"/>
+	<string key="boostStatus" value="Увеличаването е активно"/>
+	<string key="boostActive" value="Дa"/>
+	<string key="boostInactive" value="Нe"/>
+	<string key="collectionValue" value="Общо жетони"/>
+	<string key="wins" value="Печалби"/>
+	<string key="payline" value="Печеливша линия"/>
+	<string key="winSum" value="Печеливша сума"/>
+	<string key="multiplier" value="Коефициент"/>
+	<string key="baseWin" value="Основна печална"/>
+	<string key="winningSymbols" value="Печеливши символи"/>
+	<string key="freeSpins" value="Безплатни завъртания"/>
+	<string key="spinsAwarded" value="Присъдени завъртания"/>
+	<string key="trail" value="Пътека"/>
+	<string key="spinsAdded" value="Присъдени допълнителни безплатни завъртания"/>
+	<string key="updatedMultiplier" value="Увеличаване на коефициент"/>
+	<string key="freeSpin" value="Чудовищни Безплатни Завъртания"/>
+	<string key="bigHit" value="Уайлд Бонус Петък"/>
+	<string key="explodingWild" value="Уайлд Символ Златен Паяк"/>
+	<string key="respin" value="Повторно Завъртане С Избутващи Скатери"/>
+	<string key="version" value="Версия"/>
+	<string key="gambleForBonus" value="Залагайте за бонус"/>
+	<string key="bet" value="Залог"/>
+	<string key="cost" value="Цена"/>
+	<string key="chanceToWin" value="Шанс за печалба"/>
+	<string key="gambleResult" value="Резултат от залагането"/>
+	<string key="gambleLost" value="Изагубено залагане"/>
+	<string key="gambleWon" value="Спечелено залагане"/>
+	<string key="buyBonus" value="Купуване на бонус"/>
+</strings>

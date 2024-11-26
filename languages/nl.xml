@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Spelmodus"/>
+	<string key="baseGame" value="Basisspel"/>
+	<string key="scatters" value="Monster Gratis Spins-Booster"/>
+	<string key="boostStatus" value="Boost actief"/>
+	<string key="boostActive" value="Ja"/>
+	<string key="boostInactive" value="Nee"/>
+	<string key="collectionValue" value="Totaal aantal tokens"/>
+	<string key="wins" value="Winst"/>
+	<string key="payline" value="Winlijn"/>
+	<string key="winSum" value="Winstsom"/>
+	<string key="multiplier" value="Vermenigvuldiger"/>
+	<string key="baseWin" value="Basiswinst"/>
+	<string key="winningSymbols" value="Winnende symbolen"/>
+	<string key="freeSpins" value="Gratis spins"/>
+	<string key="spinsAwarded" value="Spins toegekend"/>
+	<string key="trail" value="Spoor"/>
+	<string key="spinsAdded" value="Extra gratis spins toegekend"/>
+	<string key="updatedMultiplier" value="Vermenigvuldiger verhoogd"/>
+	<string key="freeSpin" value="Monster Gratis Spins"/>
+	<string key="bigHit" value="Vrijdag-Wildbonus"/>
+	<string key="explodingWild" value="Gouden Spinwild"/>
+	<string key="respin" value="Extra Spin Met Duwende Scatter"/>
+	<string key="version" value="Versie"/>
+	<string key="gambleForBonus" value="Gok voor bonus"/>
+	<string key="bet" value="Inzet"/>
+	<string key="cost" value="Kosten"/>
+	<string key="chanceToWin" value="Winkans"/>
+	<string key="gambleResult" value="Gokresultaat"/>
+	<string key="gambleLost" value="Gok verloren"/>
+	<string key="gambleWon" value="Gok gewonnen"/>
+	<string key="buyBonus" value="Bonus kopen"/>
+</strings>

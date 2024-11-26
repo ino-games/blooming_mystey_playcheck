@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Modalità di gioco"/>
+	<string key="baseGame" value="Partita di base"/>
+	<string key="scatters" value="Potenziamento Giocate Gratuite Mostruose"/>
+	<string key="boostStatus" value="Potenziamento Attivo"/>
+	<string key="boostActive" value="Sì"/>
+	<string key="boostInactive" value="No"/>
+	<string key="collectionValue" value="Gettoni Totali"/>
+	<string key="wins" value="Vincite"/>
+	<string key="payline" value="Payline"/>
+	<string key="winSum" value="Somma della vincita"/>
+	<string key="multiplier" value="Moltiplicatore"/>
+	<string key="baseWin" value="Vincita di base"/>
+	<string key="winningSymbols" value="Simboli vincenti"/>
+	<string key="freeSpins" value="Giocate gratuite"/>
+	<string key="spinsAwarded" value="Giocate Assegnate"/>
+	<string key="trail" value="Percorso"/>
+	<string key="spinsAdded" value="Giocate Gratuite Extra Assegnate"/>
+	<string key="updatedMultiplier" value="Aumento del moltiplicatore"/>
+	<string key="freeSpin" value="Giocate Gratuite Mostruose"/>
+	<string key="bigHit" value="Bonus Jolly Venerdì"/>
+	<string key="explodingWild" value="Jolly Ragno Dorato"/>
+	<string key="respin" value="Giocata Aggiuntiva Con Scatter Dinamici"/>
+	<string key="version" value="Versione"/>
+	<string key="gambleForBonus" value="Scommetti per Bonus"/>
+	<string key="bet" value="Puntata"/>
+	<string key="cost" value="Costo"/>
+	<string key="chanceToWin" value="Probabilità di Vincita"/>
+	<string key="gambleResult" value="Risultato della scommessa"/>
+	<string key="gambleLost" value="Scommessa Persa"/>
+	<string key="gambleWon" value="Scommessa Vinta"/>
+	<string key="buyBonus" value="Acquista Bonus"/>
+</strings>

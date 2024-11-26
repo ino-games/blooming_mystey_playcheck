@@ -1,0 +1,106 @@
+<!-- Collection -->
+{{#switch id}}
+{{#case 'trail'}}
+<h4>
+    <**'{{id}}'**>
+</h4>
+<div class="trail">
+    {{#each symbolImages}}
+    <div class="reelSymbol">
+        <img class="symbolImage" src="{{@root.imagePath}}{{this}}.png" />
+    </div>
+    {{/each}}
+
+    <table>
+
+    {{#if extraSpins}}
+        <tr>
+       <td>
+            <span class="bold">
+                <**'spinsAdded'**>:
+            </span>
+        </td>
+        <td>
+            <span>{{extraSpins}}</span>
+        </td>
+
+        </tr>
+    {{/if}}
+    {{#if updatedMultiplier}}
+        <tr>
+        <td>
+            <span class="bold">
+                <**'updatedMultiplier'**>:
+            </span>
+        </td>
+        <td>
+            <span>{{updatedMultiplier}}x</span>
+        </td>
+
+        </tr>
+    {{/if}}
+    </table>
+
+</div>
+{{/case}}
+{{!-- {{#case 'multiplier'}}
+<h4>
+    <**'{{id}}'**>: {{value}}x
+</h4>
+{{/case}} --}}
+{{#case 'scatters'}}
+<h4>
+    <**'{{id}}'**>
+</h4>
+<div class="progressBarContainer">
+    <div class="progress" style="width:{{meterProgress}}%"></div>
+</div>
+<table>
+    <tr>
+        {{#if boostActive}}
+        <td>
+            <span class="bold">
+                <**'boostStatus'**>:
+            </span>
+        </td>
+        <td>
+            <span>
+                <**'boostActive'**>
+            </span>
+        </td>
+        {{else}}
+        <td>
+            <span class="bold">
+                <**'boostStatus'**>:
+            </span>
+        </td>
+        <td>
+            <span>
+                <**'boostInactive'**>
+            </span>
+        </td>
+        {{/if}}
+    </tr>
+    <tr>
+        <td>
+            <span class="bold">
+                <**'collectionValue'**>:
+            </span>
+        </td>
+        <td>
+            <span>{{value}}</span>
+        </td>
+    </tr>
+    {{!-- <tr>
+        <td>
+            <span class="bold">
+                <**'collectionUpdate'**>:
+            </span>
+        </td>
+        <td>
+            <span>{{update}}</span>
+        </td>
+    </tr> --}}
+</table>
+{{/case}}
+{{/switch}}

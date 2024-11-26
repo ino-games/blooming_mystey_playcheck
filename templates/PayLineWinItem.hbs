@@ -1,0 +1,21 @@
+<!-- PayLineWinItem -->
+<tr>
+    {{!-- <td>{{inc payLineId}}</td> --}}
+    <td>{{> WinGrid symbolsInWin}}</td>
+    <td>{{decimal winInCash}}</td>
+    {{#if baseWinInCash}}
+    <td>{{multiplier}}</td>
+    <td>{{decimal baseWinInCash}}</td>
+    {{/if}}
+    <td class="symbols">
+        {{#each symbolsData}} {{!-- symbolsData-Reel[rows] --}}
+        {{#each this}} {{!-- symbolsData-[Reel-rows] --}}
+        {{#if this}}
+        <div class="winSymbol">
+            <img class="symbolImage" src="{{@root.imagePath}}{{this.symbolImage}}.png" />
+        </div>
+        {{/if}}
+        {{/each}}
+        {{/each}}
+    </td>
+</tr>

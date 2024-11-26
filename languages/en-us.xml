@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Game mode"/>
+	<string key="baseGame" value="Base game"/>
+	<string key="scatters" value="Monster Free Spins Booster"/>
+	<string key="boostStatus" value="Boost Active"/>
+	<string key="boostActive" value="Yes"/>
+	<string key="boostInactive" value="No"/>
+	<string key="collectionValue" value="Total Tokens"/>
+	<string key="wins" value="Wins"/>
+	<string key="payline" value="Payline"/>
+	<string key="winSum" value="Win sum"/>
+	<string key="multiplier" value="Multiplier"/>
+	<string key="baseWin" value="Base win"/>
+	<string key="winningSymbols" value="Winning symbols"/>
+	<string key="freeSpins" value="Free spins"/>
+	<string key="spinsAwarded" value="Spins Awarded"/>
+	<string key="trail" value="Trail"/>
+	<string key="spinsAdded" value="Extra Free Spins Awarded"/>
+	<string key="updatedMultiplier" value="Multiplier increase"/>
+	<string key="freeSpin" value="Monster Free Spins"/>
+	<string key="bigHit" value="Friday Wild Bonus"/>
+	<string key="explodingWild" value="Golden Spider Wild"/>
+	<string key="respin" value="Nudging Scatter Respin"/>
+	<string key="version" value="Version"/>
+	<string key="gambleForBonus" value="Gamble for Bonus"/>
+	<string key="bet" value="Bet"/>
+	<string key="cost" value="Cost"/>
+	<string key="chanceToWin" value="Chance to Win"/>
+	<string key="gambleResult" value="Gamble result"/>
+	<string key="gambleLost" value="Gamble Lost"/>
+	<string key="gambleWon" value="Gamble Won"/>
+	<string key="buyBonus" value="Buy Bonus"/>
+</strings>

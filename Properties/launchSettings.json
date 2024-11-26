@@ -1,0 +1,9 @@
+﻿{
+  "profiles": {
+    "MonstervilleSecrets": {
+      "commandName": "Executable",
+      "executablePath": "playcheck",
+      "commandLineArgs": "runner --imagePath \"$(ImageDirectory)\" --languagePath \"$(LanguageDirectory)\" --templatePath \"$(TemplateDirectory)\""
+    }
+  }
+}

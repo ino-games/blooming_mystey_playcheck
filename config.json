@@ -1,0 +1,15 @@
+﻿{
+  "pluginPath": "MonstervilleSecrets.dll",
+  "globalSettngs": {
+    "skipAuditService": true
+  },
+  "games": [
+    {
+      "moduleId": 100793,
+      "clientIds": [40304,50304],
+      "gameSettings": {
+        "templateProjectId": "MonstervilleSecrets.100793"
+      }
+    }
+  ]
+}

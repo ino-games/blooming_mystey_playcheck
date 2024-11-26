@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Pelitila"/>
+	<string key="baseGame" value="Peruspeli"/>
+	<string key="scatters" value="Hirviöilmaiskierrostehoste"/>
+	<string key="boostStatus" value="Tehoste käynnissä"/>
+	<string key="boostActive" value="Kyllä"/>
+	<string key="boostInactive" value="Ei"/>
+	<string key="collectionValue" value="Poletteja yhteensä"/>
+	<string key="wins" value="Voitot"/>
+	<string key="payline" value="Voittolinja"/>
+	<string key="winSum" value="Voittosumma"/>
+	<string key="multiplier" value="Kerroin"/>
+	<string key="baseWin" value="Peruspelin voitto"/>
+	<string key="winningSymbols" value="Voittosymbolit"/>
+	<string key="freeSpins" value="Ilmaiskierrokset"/>
+	<string key="spinsAwarded" value="Voitetut kierrokset"/>
+	<string key="trail" value="Rata"/>
+	<string key="spinsAdded" value="Lisäilmaiskierroksia annettu"/>
+	<string key="updatedMultiplier" value="Kertoimen kasvu"/>
+	<string key="freeSpin" value="Hirviöilmaiskierrokset"/>
+	<string key="bigHit" value="Perjantai-Wild-Bonus"/>
+	<string key="explodingWild" value="Kultainen Hämähäkki-Wild-Symboli"/>
+	<string key="respin" value="Tönäisevä Scatter-Symboliuusintakierros"/>
+	<string key="version" value="Versio"/>
+	<string key="gambleForBonus" value="Tuplaa saadaksesi Bonuksen"/>
+	<string key="bet" value="Panos"/>
+	<string key="cost" value="Hinta"/>
+	<string key="chanceToWin" value="Mahdollisuus Voittaa"/>
+	<string key="gambleResult" value="Tuplaustulos"/>
+	<string key="gambleLost" value="Tuplaus Hävitty"/>
+	<string key="gambleWon" value="Tuplaus Voitettu"/>
+	<string key="buyBonus" value="Osta bonus"/>
+</strings>

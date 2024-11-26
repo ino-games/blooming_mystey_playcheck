@@ -1,0 +1,36 @@
+<!-- Feature -->
+{{#switch type}}
+    {{#case "gameMode"}}
+        {{> GameMode id}}
+    {{/case}}
+    {{#case "spin"}}
+        {{> Spin}}
+    {{/case}}
+    {{#case "payout"}}
+        {{> Payout}}
+    {{/case}}
+    {{#case "initFreeSpins"}}
+        {{> InitFreeSpins}}
+    {{/case}}
+    {{#case "freeSpin"}}
+        {{> FreeSpin}}
+    {{/case}}
+    {{#case "collection"}}
+        {{> Collection}}
+    {{/case}}
+    {{#case "itemCollection"}}
+        {{> ItemCollection}}
+    {{/case}}
+    {{#case "pickAction"}}
+        {{> PickAction}}
+    {{/case}}
+    {{#case "pickResult"}}
+        {{> PickResult}}
+    {{/case}}
+    {{#case "buyBonus"}}
+        {{> BuyBonus}}
+    {{/case}}
+    {{#case "gambleForBonus"}}
+        {{> GambleForBonus}}
+    {{/case}}
+{{/switch}}

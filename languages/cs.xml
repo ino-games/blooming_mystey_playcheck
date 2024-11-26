@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Herní režim"/>
+	<string key="baseGame" value="Základní hra"/>
+	<string key="scatters" value="Posilovač Roztočení Zdarma S Příšerami"/>
+	<string key="boostStatus" value="Boost aktivní"/>
+	<string key="boostActive" value="Ano"/>
+	<string key="boostInactive" value="Ne"/>
+	<string key="collectionValue" value="Celkem žetonů"/>
+	<string key="wins" value="Výhry"/>
+	<string key="payline" value="Výherní řada"/>
+	<string key="winSum" value="Vyhraná částka"/>
+	<string key="multiplier" value="Násobitel"/>
+	<string key="baseWin" value="Základní hra"/>
+	<string key="winningSymbols" value="Výherní symboly"/>
+	<string key="freeSpins" value="Roztočení zdarma"/>
+	<string key="spinsAwarded" value="Udělená roztočení"/>
+	<string key="trail" value="Série"/>
+	<string key="spinsAdded" value="Udělena roztočení zdarma navíc"/>
+	<string key="updatedMultiplier" value="Zvýšení násobitele"/>
+	<string key="freeSpin" value="Roztočení Zdarma S Příšerami"/>
+	<string key="bigHit" value="Bonusový Zástupný Symbol Pátek"/>
+	<string key="explodingWild" value="Zástupný Symbol Zlatý Pavouk"/>
+	<string key="respin" value="Opětovné Roztočení S Posunem Rozptylových Symbolů"/>
+	<string key="version" value="Verze"/>
+	<string key="gambleForBonus" value="Risk o Bonus"/>
+	<string key="bet" value="Sázka"/>
+	<string key="cost" value="Cena"/>
+	<string key="chanceToWin" value="Šance na Výhru"/>
+	<string key="gambleResult" value="Výsledek hazardní hry"/>
+	<string key="gambleLost" value="Risk Prohrán"/>
+	<string key="gambleWon" value="Risk Vyhrán"/>
+	<string key="buyBonus" value="Koupit Bonus"/>
+</strings>

@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Mode de jeu"/>
+	<string key="baseGame" value="Jeu standard"/>
+	<string key="scatters" value="Booster De Tours Gratuits Monstre"/>
+	<string key="boostStatus" value="Booster actif"/>
+	<string key="boostActive" value="Oui"/>
+	<string key="boostInactive" value="Non"/>
+	<string key="collectionValue" value="Total de jetons"/>
+	<string key="wins" value="Gains"/>
+	<string key="payline" value="Ligne de paiement"/>
+	<string key="winSum" value="Somme des gains"/>
+	<string key="multiplier" value="Multiplicateur"/>
+	<string key="baseWin" value="Gains standard"/>
+	<string key="winningSymbols" value="Symboles gagnants"/>
+	<string key="freeSpins" value="Tours gratuits"/>
+	<string key="spinsAwarded" value="Tours attribués"/>
+	<string key="trail" value="Piste"/>
+	<string key="spinsAdded" value="Tours gratuits supplémentaires attribués"/>
+	<string key="updatedMultiplier" value="Augmentation de multiplicateur"/>
+	<string key="freeSpin" value="Tours Gratuits Monstre"/>
+	<string key="bigHit" value="Bonus Wild Vendredi"/>
+	<string key="explodingWild" value="Wild Araignée Dorée"/>
+	<string key="respin" value="Relance Scatter Secousse"/>
+	<string key="version" value="Version"/>
+	<string key="gambleForBonus" value="Parier pour un bonus"/>
+	<string key="bet" value="Mise"/>
+	<string key="cost" value="Coût"/>
+	<string key="chanceToWin" value="Chance de gagner"/>
+	<string key="gambleResult" value="Résultat du pari"/>
+	<string key="gambleLost" value="Pari perdu"/>
+	<string key="gambleWon" value="Pari gagné"/>
+	<string key="buyBonus" value="Acheter bonus"/>
+</strings>

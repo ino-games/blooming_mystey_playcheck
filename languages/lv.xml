@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Spēles režīms"/>
+	<string key="baseGame" value="Pamatspēle"/>
+	<string key="scatters" value="Briesmoņa Bezmaksas Griezienu Palielinātājs"/>
+	<string key="boostStatus" value="Palielināšana Aktīva"/>
+	<string key="boostActive" value="Jā"/>
+	<string key="boostInactive" value="Nē"/>
+	<string key="collectionValue" value="Žetoni Kopā"/>
+	<string key="wins" value="Laimesti"/>
+	<string key="payline" value="Izmaksas līnijas"/>
+	<string key="winSum" value="Laimesta summa"/>
+	<string key="multiplier" value="Reizinātājs"/>
+	<string key="baseWin" value="Pamatspēles laimests"/>
+	<string key="winningSymbols" value="Laimējošie simboli"/>
+	<string key="freeSpins" value="Bezmaksas griezieni"/>
+	<string key="spinsAwarded" value="Piešķirti griezieni"/>
+	<string key="trail" value="Virkne"/>
+	<string key="spinsAdded" value="Piešķirti papildu Bezmaksas Griezieni"/>
+	<string key="updatedMultiplier" value="Reizinātāja paaugstinājums"/>
+	<string key="freeSpin" value="Briesmoņa Bezmaksas Griezieni"/>
+	<string key="bigHit" value="Piektdienas Wild Bonuss"/>
+	<string key="explodingWild" value="Zelta Zirnekļa Wild Simbols"/>
+	<string key="respin" value="Pavirzāmo Scatter Simbolu Atkārtotais Grieziens"/>
+	<string key="version" value="Versija"/>
+	<string key="gambleForBonus" value="Riskē, lai iegūtu Bonusu"/>
+	<string key="bet" value="Likme"/>
+	<string key="cost" value="Izmaksas"/>
+	<string key="chanceToWin" value="Iespēja Laimēt"/>
+	<string key="gambleResult" value="Riska spēles rezultāts"/>
+	<string key="gambleLost" value="Riska spēle zaudēta"/>
+	<string key="gambleWon" value="Riska spēle laimēta"/>
+	<string key="buyBonus" value="Bonusa pirkšana"/>
+</strings>

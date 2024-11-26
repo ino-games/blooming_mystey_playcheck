@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Játékmód"/>
+	<string key="baseGame" value="Alapjáték"/>
+	<string key="scatters" value="Szörny Ingyenespörgetés-Növelő"/>
+	<string key="boostStatus" value="Növelés Aktív"/>
+	<string key="boostActive" value="Igen"/>
+	<string key="boostInactive" value="Nem"/>
+	<string key="collectionValue" value="Zsetonok Összesen"/>
+	<string key="wins" value="Nyeremények"/>
+	<string key="payline" value="Nyerővonal"/>
+	<string key="winSum" value="Nyeremény összege"/>
+	<string key="multiplier" value="Szorzó"/>
+	<string key="baseWin" value="Alapnyeremény"/>
+	<string key="winningSymbols" value="Nyerő szimbólumok"/>
+	<string key="freeSpins" value="Ingyenes pörgetések"/>
+	<string key="spinsAwarded" value="Pörgetést Kapott"/>
+	<string key="trail" value="Sáv"/>
+	<string key="spinsAdded" value="Extra Ingyenes Pörgetéseket Kapott"/>
+	<string key="updatedMultiplier" value="Szorzónövelés"/>
+	<string key="freeSpin" value="Szörny Ingyenes Pörgetések"/>
+	<string key="bigHit" value="Pénteki Joker Bónusz"/>
+	<string key="explodingWild" value="Aranypók Joker"/>
+	<string key="respin" value="Filler Újrapörgetés Meglökése"/>
+	<string key="version" value="Verzió"/>
+	<string key="gambleForBonus" value="Kockáztasson bónuszért"/>
+	<string key="bet" value="Tét"/>
+	<string key="cost" value="Költség"/>
+	<string key="chanceToWin" value="Nyerési esély"/>
+	<string key="gambleResult" value="Szerencsejáték eredmény"/>
+	<string key="gambleLost" value="Szerencsejátékot veszített"/>
+	<string key="gambleWon" value="Szerencsejátékot nyert"/>
+	<string key="buyBonus" value="Vásárlási bónusz"/>
+</strings>

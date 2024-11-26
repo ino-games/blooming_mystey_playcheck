@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Режим игры"/>
+	<string key="baseGame" value="Основная игра"/>
+	<string key="scatters" value="Усилитель Бесплатных Спинов Монстра"/>
+	<string key="boostStatus" value="Усиление активно"/>
+	<string key="boostActive" value="Да"/>
+	<string key="boostInactive" value="Нет"/>
+	<string key="collectionValue" value="Всего жетонов"/>
+	<string key="wins" value="Выигрыши"/>
+	<string key="payline" value="Линия выплат"/>
+	<string key="winSum" value="Сумма выигрыша"/>
+	<string key="multiplier" value="Множитель"/>
+	<string key="baseWin" value="Базовый выигрыш"/>
+	<string key="winningSymbols" value="Выигрышные символы"/>
+	<string key="freeSpins" value="Бесплатные спины"/>
+	<string key="spinsAwarded" value="Полученные спины"/>
+	<string key="trail" value="Ряд"/>
+	<string key="spinsAdded" value="Полученные дополнительные бесплатные спины"/>
+	<string key="updatedMultiplier" value="Увеличение множителя"/>
+	<string key="freeSpin" value="Бесплатные Спины Монстра"/>
+	<string key="bigHit" value="Бонус Wild-Символа Пятницы"/>
+	<string key="explodingWild" value="Золотой Wild-Символ Паука"/>
+	<string key="respin" value="Повторный Спин С Подталкивающим Скаттер-Символом"/>
+	<string key="version" value="Версия"/>
+	<string key="gambleForBonus" value="Азартная игра на бонус"/>
+	<string key="bet" value="Ставка"/>
+	<string key="cost" value="Стоимость"/>
+	<string key="chanceToWin" value="Шанс выиграть"/>
+	<string key="gambleResult" value="Результат азартной игры"/>
+	<string key="gambleLost" value="Азартная игра проиграна"/>
+	<string key="gambleWon" value="Азартная игра выиграна"/>
+	<string key="buyBonus" value="Покупка бонуса"/>
+</strings>

@@ -1,0 +1,19 @@
+﻿<div class="gameContainer">
+    {{#if this.isHasLogInfo}}
+    <div class="logInfo"><span>{{this.logInfo}}</span></div>
+    {{/if}}
+
+    {{> Style}}
+    {{#each features}}
+    {{> Feature this}}
+    {{/each}}
+
+    <div class="footer">
+        <span class="bold">
+            <**'version'**>
+        </span>
+        <span>
+            {{version}}
+        </span>
+    </div>
+</div>

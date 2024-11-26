@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Tryb gry"/>
+	<string key="baseGame" value="Gra podstawowa"/>
+	<string key="scatters" value="Wzmacniacz Potwornych Darmowych Obrotów"/>
+	<string key="boostStatus" value="Wzmocnienie Aktywne"/>
+	<string key="boostActive" value="Tak"/>
+	<string key="boostInactive" value="Nie"/>
+	<string key="collectionValue" value="Całkowita liczba Żetonów"/>
+	<string key="wins" value="Wygrane"/>
+	<string key="payline" value="Linia wygranych"/>
+	<string key="winSum" value="Łączna wygrana"/>
+	<string key="multiplier" value="Mnożnik"/>
+	<string key="baseWin" value="Wygrana podstawowa"/>
+	<string key="winningSymbols" value="Wygrywające symbole"/>
+	<string key="freeSpins" value="Darmowe obroty"/>
+	<string key="spinsAwarded" value="Przyznano Obroty"/>
+	<string key="trail" value="Tor"/>
+	<string key="spinsAdded" value="Przyznano Dodatkowe Darmowe Obroty"/>
+	<string key="updatedMultiplier" value="Zwiększenie mnożnika"/>
+	<string key="freeSpin" value="Potworne Darmowe Obroty"/>
+	<string key="bigHit" value="Bonus Wild Piątku"/>
+	<string key="explodingWild" value="Symbol Wild Złotego Pająka"/>
+	<string key="respin" value="Popchnięcie Ponownego Obrotu Symbolu Rozproszonego"/>
+	<string key="version" value="Wersja"/>
+	<string key="gambleForBonus" value="Zaryzykuj, aby zdobyć bonus"/>
+	<string key="bet" value="Stawka"/>
+	<string key="cost" value="Koszt"/>
+	<string key="chanceToWin" value="Szansa na wygraną"/>
+	<string key="gambleResult" value="Wynik Zakładu"/>
+	<string key="gambleLost" value="Przegrana zakładu"/>
+	<string key="gambleWon" value="Wygrana zakładu"/>
+	<string key="buyBonus" value="Kupno bonusu"/>
+</strings>

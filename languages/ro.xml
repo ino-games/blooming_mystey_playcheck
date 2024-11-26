@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Mod de joc"/>
+	<string key="baseGame" value="Joc de bază"/>
+	<string key="scatters" value="Amplificatorul Învârtirilor Gratuite Monstru"/>
+	<string key="boostStatus" value="Amplificare Activă"/>
+	<string key="boostActive" value="Da"/>
+	<string key="boostInactive" value="Nu"/>
+	<string key="collectionValue" value="Tokenuri Totale"/>
+	<string key="wins" value="Câștiguri"/>
+	<string key="payline" value="Linie de plată"/>
+	<string key="winSum" value="Suma câștigului"/>
+	<string key="multiplier" value="Multiplicator"/>
+	<string key="baseWin" value="Câștig de bază"/>
+	<string key="winningSymbols" value="Simboluri câștigătoare"/>
+	<string key="freeSpins" value="Învârtiri gratuite"/>
+	<string key="spinsAwarded" value="Învârtiri Acordate"/>
+	<string key="trail" value="Șir"/>
+	<string key="spinsAdded" value="Învârtiri Gratuite Suplimentare Acordate"/>
+	<string key="updatedMultiplier" value="Creștere Multiplicator"/>
+	<string key="freeSpin" value="Învârtiri Gratuite Monstru"/>
+	<string key="bigHit" value="Bonusul Vineri Wild"/>
+	<string key="explodingWild" value="Păianjen Wild De Aur"/>
+	<string key="respin" value="Reînvârtirea Scatter Înghiontită"/>
+	<string key="version" value="Versiune"/>
+	<string key="gambleForBonus" value="Pariază pentru Bonus"/>
+	<string key="bet" value="Pariu"/>
+	<string key="cost" value="Cost"/>
+	<string key="chanceToWin" value="Șansă de câștig"/>
+	<string key="gambleResult" value="Rezultatele pariului"/>
+	<string key="gambleLost" value="Pariu pierdut"/>
+	<string key="gambleWon" value="Pariu câștigat"/>
+	<string key="buyBonus" value="Bonus de cumpărare"/>
+</strings>

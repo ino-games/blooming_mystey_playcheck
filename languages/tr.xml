@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Oyun modu"/>
+	<string key="baseGame" value="Temel oyun"/>
+	<string key="scatters" value="Canavar Ücretsiz Döndürme Desteği"/>
+	<string key="boostStatus" value="Destek Aktif"/>
+	<string key="boostActive" value="Evet"/>
+	<string key="boostInactive" value="Hayır"/>
+	<string key="collectionValue" value="Toplam Jetonlar"/>
+	<string key="wins" value="Kazançlar"/>
+	<string key="payline" value="Ödeme hattı"/>
+	<string key="winSum" value="Kazanç toplamı"/>
+	<string key="multiplier" value="Çarpan"/>
+	<string key="baseWin" value="Taban kazanç"/>
+	<string key="winningSymbols" value="Kazandıran semboller"/>
+	<string key="freeSpins" value="Ücretsiz döndürmeler"/>
+	<string key="spinsAwarded" value="Kazanılan Döndürmeler"/>
+	<string key="trail" value="Seri"/>
+	<string key="spinsAdded" value="Ekstra Ücretsiz Döndürmeler Kazanıldı"/>
+	<string key="updatedMultiplier" value="Çarpan artışı"/>
+	<string key="freeSpin" value="Canavar Ücretsiz Döndürmeleri"/>
+	<string key="bigHit" value="Cuma Wild Bonusu"/>
+	<string key="explodingWild" value="Altin Örümcek Wild"/>
+	<string key="respin" value="Sarsilan Scatter Yeniden Döndürmesi"/>
+	<string key="version" value="Versiyon"/>
+	<string key="gambleForBonus" value="Bonus için Kumar Oyna"/>
+	<string key="bet" value="Bahis"/>
+	<string key="cost" value="Maliyet"/>
+	<string key="chanceToWin" value="Kazanma Şansı"/>
+	<string key="gambleResult" value="Kumar sonucu"/>
+	<string key="gambleLost" value="Kumar Kaybedildi"/>
+	<string key="gambleWon" value="Kumar Kazanıldı"/>
+	<string key="buyBonus" value="Bonus Satın Alma"/>
+</strings>

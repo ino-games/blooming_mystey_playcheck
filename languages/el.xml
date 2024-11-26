@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Λειτουργία παιχνιδιού"/>
+	<string key="baseGame" value="Βασικό παιχνίδι"/>
+	<string key="scatters" value="Ενισχυτικο Δωρεαν Γυρισματων Τερατοσ"/>
+	<string key="boostStatus" value="Ενίσχυση Ενεργή"/>
+	<string key="boostActive" value="Ναι"/>
+	<string key="boostInactive" value="Όχι"/>
+	<string key="collectionValue" value="Συνολικά Κουπόνια"/>
+	<string key="wins" value="Κέρδη"/>
+	<string key="payline" value="Γραμμή πληρωμής"/>
+	<string key="winSum" value="Άθροισμα κερδών"/>
+	<string key="multiplier" value="Πολλαπλασιαστής"/>
+	<string key="baseWin" value="Κέρδος βασικού παιχνιδιού"/>
+	<string key="winningSymbols" value="Σύμβολα που κερδίζουν"/>
+	<string key="freeSpins" value="Δωρεάν γυρίσματα"/>
+	<string key="spinsAwarded" value="Γυρίσματα που απονεμήθηκαν"/>
+	<string key="trail" value="Αλυσίδα"/>
+	<string key="spinsAdded" value="Απονεμήθηκαν επιπλέον Δωρεάν Γυρίσματα"/>
+	<string key="updatedMultiplier" value="Αύξηση Πολλαπλασιαστή"/>
+	<string key="freeSpin" value="Δωρεαν Γυρισματα Τερατοσ"/>
+	<string key="bigHit" value="Μπονουσ Μπαλαντερ Παρασκευησ"/>
+	<string key="explodingWild" value="Χρυσο Μπαλαντερ Αραχνησ"/>
+	<string key="respin" value="Επαναληψη Γυρισματοσ Μετακινουμενου Διασκορπισμενου"/>
+	<string key="version" value="Έκδοση"/>
+	<string key="gambleForBonus" value="Στοίχημα για Μπόνους"/>
+	<string key="bet" value="Ποντάρισμα"/>
+	<string key="cost" value="Κόστος"/>
+	<string key="chanceToWin" value="Πιθανότητα να κερδίσετε"/>
+	<string key="gambleResult" value="Αποτέλεσμα στοιχήματος"/>
+	<string key="gambleLost" value="Το στοίχημα χάθηκε"/>
+	<string key="gambleWon" value="Το στοίχημα κερδήθηκε"/>
+	<string key="buyBonus" value="Αγορά Μπόνους"/>
+</strings>

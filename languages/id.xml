@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Mode game"/>
+	<string key="baseGame" value="Game dasar"/>
+	<string key="scatters" value="Booster Putaran Gratis Monster"/>
+	<string key="boostStatus" value="Boost Aktif"/>
+	<string key="boostActive" value="Ya"/>
+	<string key="boostInactive" value="Tidak"/>
+	<string key="collectionValue" value="Total Token"/>
+	<string key="wins" value="Menang"/>
+	<string key="payline" value="Payline"/>
+	<string key="winSum" value="Jumlah menang"/>
+	<string key="multiplier" value="Pengali"/>
+	<string key="baseWin" value="Menang dasar"/>
+	<string key="winningSymbols" value="Simbol menang"/>
+	<string key="freeSpins" value="Putaran gratis"/>
+	<string key="spinsAwarded" value="Putaran Diberikan"/>
+	<string key="trail" value="Jejak"/>
+	<string key="spinsAdded" value="Putaran Gratis Ekstra Diberikan"/>
+	<string key="updatedMultiplier" value="Pengali bertambah"/>
+	<string key="freeSpin" value="Putaran Gratis Monster"/>
+	<string key="bigHit" value="Bonus Wild Jumat"/>
+	<string key="explodingWild" value="Gratis Laba-Laba Emas"/>
+	<string key="respin" value="Menyenggol Putaran Ulang Scatter"/>
+	<string key="version" value="Versi"/>
+	<string key="gambleForBonus" value="Bertaruh untuk Bonus"/>
+	<string key="bet" value="Taruhan"/>
+	<string key="cost" value="Harga"/>
+	<string key="chanceToWin" value="Peluang untuk Menang"/>
+	<string key="gambleResult" value="Hasil taruhan"/>
+	<string key="gambleLost" value="Kalah Taruhan"/>
+	<string key="gambleWon" value="Menang Taruhan"/>
+	<string key="buyBonus" value="Beli Bonus"/>
+</strings>

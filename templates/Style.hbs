@@ -1,0 +1,203 @@
+<!-- Style -->
+<style>
+    .gameContainer {}
+
+    div {
+        margin: auto;
+        text-align: center;
+        text-transform: capitalize;
+    }
+
+    table {
+        margin: auto;
+    }
+
+    td {
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    table.wins {
+        border: 1px solid black;
+        border-spacing: 1px;
+        padding: 1px;
+        border-collapse: collapse;
+        max-width: 800px;
+    }
+
+    table.wins td {
+        border: 1px solid black;
+    }
+
+    table.wins td.symbols {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: left;
+    }
+
+    .winSymbol {
+        max-width: calc(100%/{{reelCols}});
+        margin: 0px;
+    }
+
+    table.boardState {
+        table-layout: fixed;
+        border: 1px solid black;
+        border-spacing: 1px;
+        padding: 1px;
+    }
+
+    table.boardState td {
+        border: 1px solid black;
+    }
+
+    table.boardState td.modified {
+        background-color: gold;
+    }
+
+    div.freeSpin,
+    div.baseGame {
+        padding-bottom: 20px;
+    }
+
+    div.footer {
+        margin-top: 10px;
+    }
+
+    .gamblePieChart {
+        width: 100px;
+        height: 200px;
+    }
+
+    .history {
+        display: flex;
+        flex: 1 1 auto;
+        gap: 10px;
+        justify-content: center;
+    }
+
+    .history table {
+        margin: 0px;
+    }
+
+    .history img {
+        max-width: 100%;
+    }
+
+
+    .reels {
+        min-width: 50%;
+        max-width: 800px;
+        table-layout: fixed;
+        border-collapse: collapse;
+    }
+
+    .reels tr {
+        height: calc(100%/{{reelRows}});
+    }
+
+    .reels td {
+        border: #000 solid 1px;
+        width: calc(100%/{{reelCols}});
+    }
+
+
+    div.spin-anticipation {
+        display: none;
+    }
+
+    .reelSymbol {
+        width: 100%;
+        height: 100%;
+        display: grid;
+        justify-content: center;
+        align-content: center;
+        justify-items: center;
+        align-items: center;
+    }
+
+
+    .symbolImage,
+    .symbolOverlay {
+        min-width: 25px;
+        min-height: 25px;
+        width: 100%;
+        height: auto;
+        grid-area: 1 / 1 / 1 / 1;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .symbolOverlay {
+        display: grid;
+        justify-content: center;
+        align-content: center;
+        color: white;
+        text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+        font-size: 5vw;
+        justify-content: space-around;
+        align-content: space-around;
+    }
+
+    @media screen and (min-width: 980px) {
+        .symbolOverlay {
+            font-size: 49px;
+        }
+    }
+
+
+
+    .bold {
+        font-weight: bold;
+    }
+
+    .pickResult {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .pickResult>img {
+        margin: 0px;
+        max-width: 200px;
+    }
+
+    .trail {
+        display: flex;
+        flex-wrap: wrap;
+        max-width: 650px;
+    }
+
+    .trail>div {
+        max-width: 100px;
+        min-width: 64px;
+        max-height: 100px;
+    }
+
+    .progressBarContainer {
+        margin-top: 20px;
+        max-height: 100px;
+        height: 24px;
+        max-width: 800px;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        border: black solid 1px;
+    }
+
+    .progress {
+        background-color: green;
+        margin-left: 0;
+        margin-right: auto;
+        grid-area: 1 / 1 / 1 / 1;
+        height: 100%;
+        border-right: black dotted 1px;
+    }
+
+    @media only screen and (max-width: 1300px) {
+        .trail {
+            max-width: 650px;
+        }
+    }
+</style>

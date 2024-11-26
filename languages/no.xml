@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Spillmodus"/>
+	<string key="baseGame" value="Grunnspill"/>
+	<string key="scatters" value="Monster-Gratisspinnbooster"/>
+	<string key="boostStatus" value="Boost Aktiv"/>
+	<string key="boostActive" value="Ja"/>
+	<string key="boostInactive" value="Nei"/>
+	<string key="collectionValue" value="Totale Tegn"/>
+	<string key="wins" value="Gevinster"/>
+	<string key="payline" value="Utbetalingslinje"/>
+	<string key="winSum" value="Gevinstsum"/>
+	<string key="multiplier" value="Multiplikator"/>
+	<string key="baseWin" value="Grunngevinst"/>
+	<string key="winningSymbols" value="Vinnende symboler"/>
+	<string key="freeSpins" value="Gratisspinn"/>
+	<string key="spinsAwarded" value="Spinn Tildelt"/>
+	<string key="trail" value="Rekke"/>
+	<string key="spinsAdded" value="Ekstra Gratisspinn Tildelt"/>
+	<string key="updatedMultiplier" value="Multiplikatorøkning"/>
+	<string key="freeSpin" value="Monster-Gratisspinn"/>
+	<string key="bigHit" value="Fredag-Jokerbonus"/>
+	<string key="explodingWild" value="Gyllen Edderkopp-Joker"/>
+	<string key="respin" value="Dyttende Scatteromspinn"/>
+	<string key="version" value="Versjon"/>
+	<string key="gambleForBonus" value="Gambling for bonus"/>
+	<string key="bet" value="Innsats"/>
+	<string key="cost" value="Kostnad"/>
+	<string key="chanceToWin" value="Sjanse til å vinne"/>
+	<string key="gambleResult" value="Gambling-resultat"/>
+	<string key="gambleLost" value="Gambling tapt"/>
+	<string key="gambleWon" value="Gambling vunnet"/>
+	<string key="buyBonus" value="Kjøp bonus"/>
+</strings>

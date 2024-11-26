@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Žaidimo režimas"/>
+	<string key="baseGame" value="Pagrindinis žaidimas"/>
+	<string key="scatters" value="Nemokamų Pabaisos Sukimų Gerintuvas"/>
+	<string key="boostStatus" value="Pagerinimas aktyvus"/>
+	<string key="boostActive" value="Taip"/>
+	<string key="boostInactive" value="Ne"/>
+	<string key="collectionValue" value="Iš viso žetonų"/>
+	<string key="wins" value="Laimėjimai"/>
+	<string key="payline" value="Išmokų eilutė"/>
+	<string key="winSum" value="Laimėta suma"/>
+	<string key="multiplier" value="Kelių žaidėjų režimas"/>
+	<string key="baseWin" value="Pagrindinis laimėjimas"/>
+	<string key="winningSymbols" value="Laimingi simboliai"/>
+	<string key="freeSpins" value="Nemokami sukimai"/>
+	<string key="spinsAwarded" value="Suteikta sukimų"/>
+	<string key="trail" value="Kelias"/>
+	<string key="spinsAdded" value="Suteikta papildomų nemokamų sukimų"/>
+	<string key="updatedMultiplier" value="Daugiklio padidėjimas"/>
+	<string key="freeSpin" value="Nemokami Pabaisos Sukimai"/>
+	<string key="bigHit" value="Penktadienio „Wild“ Premija"/>
+	<string key="explodingWild" value="Auksinis Voro „Wild“ Simbolis"/>
+	<string key="respin" value="Stumtelėjamų „Scatter“ Simbolių Pakartotinis Sukimas"/>
+	<string key="version" value="Versija"/>
+	<string key="gambleForBonus" value="Loškite, kad gautumėte premiją"/>
+	<string key="bet" value="Statymas"/>
+	<string key="cost" value="Kaina"/>
+	<string key="chanceToWin" value="Tikimybė laimėti"/>
+	<string key="gambleResult" value="Lošimo rezultatas"/>
+	<string key="gambleLost" value="Pralošta"/>
+	<string key="gambleWon" value="Lošimas laimėtas"/>
+	<string key="buyBonus" value="Pirkti premiją"/>
+</strings>

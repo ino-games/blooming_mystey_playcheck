@@ -1,0 +1,28 @@
+<!-- Payout -->
+{{#if win}}
+<div>
+    <h3><**'wins'**></h3>
+    <span><**'wins'**></span> <span>{{decimal win}}</span>
+    {{#if winDetails}}
+    <table class="wins">
+        <tr>
+            <td><**'payline'**></td>
+            <td><**'winSum'**></td>
+            {{#if winDetails.winList.[0].baseWinInCash}}
+            <td><**'multiplier'**></td>
+            <td><**'baseWin'**></td>
+            {{/if}}
+            <td><**'winningSymbols'**></td>
+        </tr>
+            {{#each winDetails.winList}}
+                {{#if this.isPayLinePayout}}
+                    {{> PayLineWinItem this}}
+                {{/if}}
+                {{#if this.isWaysPayout}}
+                    {{> WaysWinItem this}}
+                {{/if}}
+            {{/each}}
+    </table>
+    {{/if}}
+</div>
+{{/if}}

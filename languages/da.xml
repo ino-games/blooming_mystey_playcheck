@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Spiltype"/>
+	<string key="baseGame" value="Basisspil"/>
+	<string key="scatters" value="Monster Gratis Spin-Booster"/>
+	<string key="boostStatus" value="Boost aktiv"/>
+	<string key="boostActive" value="Ja"/>
+	<string key="boostInactive" value="Nej"/>
+	<string key="collectionValue" value="Samlede jetoner"/>
+	<string key="wins" value="Gevinster"/>
+	<string key="payline" value="Gevinstlinje"/>
+	<string key="winSum" value="Gevinstbeløb"/>
+	<string key="multiplier" value="Multiplikator"/>
+	<string key="baseWin" value="Basisgevinst"/>
+	<string key="winningSymbols" value="Vindersymboler"/>
+	<string key="freeSpins" value="Gratis spin"/>
+	<string key="spinsAwarded" value="Spin tildelt"/>
+	<string key="trail" value="Rute"/>
+	<string key="spinsAdded" value="Ekstra gratis spin tildelt"/>
+	<string key="updatedMultiplier" value="Multiplikatorøgning"/>
+	<string key="freeSpin" value="Monster Gratis Spin"/>
+	<string key="bigHit" value="Fredag Wild-Bonus"/>
+	<string key="explodingWild" value="Guldedderkop Wild"/>
+	<string key="respin" value="Skubbende Scatter Re-Spin"/>
+	<string key="version" value="Version"/>
+	<string key="gambleForBonus" value="Gamble for bonus"/>
+	<string key="bet" value="Indsats"/>
+	<string key="cost" value="Pris"/>
+	<string key="chanceToWin" value="Chance for at vinde"/>
+	<string key="gambleResult" value="Gamble-resultat"/>
+	<string key="gambleLost" value="Gamble tabt"/>
+	<string key="gambleWon" value="Gamble vundet"/>
+	<string key="buyBonus" value="Køb bonus"/>
+</strings>

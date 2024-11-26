@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Herný režim"/>
+	<string key="baseGame" value="Základná hra"/>
+	<string key="scatters" value="Posilňovač Kôl Zadarmo S Príšerami"/>
+	<string key="boostStatus" value="Aktívne zosilnenie"/>
+	<string key="boostActive" value="Áno"/>
+	<string key="boostInactive" value="Nie"/>
+	<string key="collectionValue" value="Celkový Počet Žetónov"/>
+	<string key="wins" value="Výhry"/>
+	<string key="payline" value="Línia"/>
+	<string key="winSum" value="Suma výhry"/>
+	<string key="multiplier" value="Násobiteľ"/>
+	<string key="baseWin" value="Základná výhra"/>
+	<string key="winningSymbols" value="Výherné symboly"/>
+	<string key="freeSpins" value="Kolá zadarmo"/>
+	<string key="spinsAwarded" value="Udelené Točenia"/>
+	<string key="trail" value="Reťazec"/>
+	<string key="spinsAdded" value="Udelené Kolá Zadarmo Navyše"/>
+	<string key="updatedMultiplier" value="Zvýšenie Násobiteľa"/>
+	<string key="freeSpin" value="Kolá Zadarmo S Príšerami"/>
+	<string key="bigHit" value="Žolíkový Bonus Piatok"/>
+	<string key="explodingWild" value="Žolík Zlatý Pavúk"/>
+	<string key="respin" value="Posunutie Opätovného Roztočenia Scatter"/>
+	<string key="version" value="Verzia"/>
+	<string key="gambleForBonus" value="Riskovať o Bonus"/>
+	<string key="bet" value="Stávka"/>
+	<string key="cost" value="Náklady"/>
+	<string key="chanceToWin" value="Šanca na Výhru"/>
+	<string key="gambleResult" value="Výsledok funkcie Risk"/>
+	<string key="gambleLost" value="Prehraný risk"/>
+	<string key="gambleWon" value="Vyhraný risk"/>
+	<string key="buyBonus" value="Kúpenie Bonusu"/>
+</strings>

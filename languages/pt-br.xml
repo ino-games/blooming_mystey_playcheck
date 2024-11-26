@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Modo de jogo"/>
+	<string key="baseGame" value="Jogo base"/>
+	<string key="scatters" value="Reforço De Giros Grátis Monstruosos"/>
+	<string key="boostStatus" value="Reforço ativo"/>
+	<string key="boostActive" value="Sim"/>
+	<string key="boostInactive" value="Não"/>
+	<string key="collectionValue" value="Total de fichas"/>
+	<string key="wins" value="Prêmios"/>
+	<string key="payline" value="Linha de pagamento"/>
+	<string key="winSum" value="Soma dos prêmios"/>
+	<string key="multiplier" value="Multiplicador"/>
+	<string key="baseWin" value="Prêmio base"/>
+	<string key="winningSymbols" value="Símbolos premiados"/>
+	<string key="freeSpins" value="Giros Grátis"/>
+	<string key="spinsAwarded" value="Giros concedidos"/>
+	<string key="trail" value="Trilha"/>
+	<string key="spinsAdded" value="Giros Grátis adicionais concedidos"/>
+	<string key="updatedMultiplier" value="Aumento de multiplicador"/>
+	<string key="freeSpin" value="Giros Grátis Monstruosos"/>
+	<string key="bigHit" value="Bônus Wild De Trevinha"/>
+	<string key="explodingWild" value="Wild De Aranha Dourado"/>
+	<string key="respin" value="Novo Giro De Scatter Oscilante"/>
+	<string key="version" value="Versão"/>
+	<string key="gambleForBonus" value="Aposta por Bônus"/>
+	<string key="bet" value="Aposta"/>
+	<string key="cost" value="Custo"/>
+	<string key="chanceToWin" value="Chance de prêmio"/>
+	<string key="gambleResult" value="Resultado da aposta"/>
+	<string key="gambleLost" value="Aposta perdida"/>
+	<string key="gambleWon" value="Aposta ganha"/>
+	<string key="buyBonus" value="Comprar Bônus"/>
+</strings>

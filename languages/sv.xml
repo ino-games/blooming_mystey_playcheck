@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Spelläge"/>
+	<string key="baseGame" value="Basspel"/>
+	<string key="scatters" value="Monster Free Spins-Booster"/>
+	<string key="boostStatus" value="Aktiv Ökning"/>
+	<string key="boostActive" value="Ja"/>
+	<string key="boostInactive" value="Nej"/>
+	<string key="collectionValue" value="Totala Polletter"/>
+	<string key="wins" value="Vinster"/>
+	<string key="payline" value="Vinstrad"/>
+	<string key="winSum" value="Vinstsumma"/>
+	<string key="multiplier" value="Multiplikator"/>
+	<string key="baseWin" value="Basvinst"/>
+	<string key="winningSymbols" value="Vinstsymboler"/>
+	<string key="freeSpins" value="Free spins"/>
+	<string key="spinsAwarded" value="Spel Utdelade"/>
+	<string key="trail" value="Spår"/>
+	<string key="spinsAdded" value="Extra Free Spins Tilldelade"/>
+	<string key="updatedMultiplier" value="Multiplikatorn ökar"/>
+	<string key="freeSpin" value="Monster Free Spins"/>
+	<string key="bigHit" value="Fredag Wild-Bonus"/>
+	<string key="explodingWild" value="Gyllene Spindel Wild"/>
+	<string key="respin" value="Knuffande Scatter-Omsnurr"/>
+	<string key="version" value="Version"/>
+	<string key="gambleForBonus" value="Chansa för Bonus"/>
+	<string key="bet" value="Insats"/>
+	<string key="cost" value="Kostnad"/>
+	<string key="chanceToWin" value="Chansa för att Vinna"/>
+	<string key="gambleResult" value="Chansningsresultat"/>
+	<string key="gambleLost" value="Förlorad Chansning"/>
+	<string key="gambleWon" value="Vunnen Chansning "/>
+	<string key="buyBonus" value="Köp Bonus"/>
+</strings>

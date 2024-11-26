@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="게임 모드"/>
+	<string key="baseGame" value="기본 게임"/>
+	<string key="scatters" value="몬스터 프리 스핀 부스터"/>
+	<string key="boostStatus" value="부스트 활성화"/>
+	<string key="boostActive" value="예"/>
+	<string key="boostInactive" value="아니요"/>
+	<string key="collectionValue" value="총 토큰"/>
+	<string key="wins" value="당첨금"/>
+	<string key="payline" value="페이라인"/>
+	<string key="winSum" value="당첨금 합계"/>
+	<string key="multiplier" value="배수"/>
+	<string key="baseWin" value="기본 당첨금"/>
+	<string key="winningSymbols" value="당첨 심볼"/>
+	<string key="freeSpins" value="프리 스핀"/>
+	<string key="spinsAwarded" value="스핀 지급"/>
+	<string key="trail" value="트레일"/>
+	<string key="spinsAdded" value="추가 프리 스핀 지급"/>
+	<string key="updatedMultiplier" value="배수 증가"/>
+	<string key="freeSpin" value="몬스터 프리 스핀"/>
+	<string key="bigHit" value="금요일 와일드 보너스"/>
+	<string key="explodingWild" value="황금 거미 와일드"/>
+	<string key="respin" value="넛징 스캐터 리스핀"/>
+	<string key="version" value="버전"/>
+	<string key="gambleForBonus" value="보너스를 위한 갬블"/>
+	<string key="bet" value="베팅"/>
+	<string key="cost" value="비용"/>
+	<string key="chanceToWin" value="당첨될 기회"/>
+	<string key="gambleResult" value="갬블 결과"/>
+	<string key="gambleLost" value="갬블에서 패배"/>
+	<string key="gambleWon" value="갬블에서 승리"/>
+	<string key="buyBonus" value="보너스 구매"/>
+</strings>
