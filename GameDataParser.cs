@@ -5,7 +5,7 @@ using Service.PlayCheckCommon;
 using System.Linq;
 using System.Collections.Generic;
 
-namespace MonstervilleSecrets
+namespace BloomingMystery
 {
     public class GameDataParser : GameDataParserBase
     {

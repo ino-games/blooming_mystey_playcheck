@@ -1,14 +1,14 @@
 ﻿{
-  "pluginPath": "MonstervilleSecrets.dll",
+  "pluginPath": "BloomingMystery.dll",
   "globalSettngs": {
     "skipAuditService": true
   },
   "games": [
     {
       "moduleId": 100793,
-      "clientIds": [40304,50304],
+      "clientIds": [40305,50305],
       "gameSettings": {
-        "templateProjectId": "MonstervilleSecrets.100793"
+        "templateProjectId": "BloomingMystery.100793"
       }
     }
   ]

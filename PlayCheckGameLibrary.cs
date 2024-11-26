@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System;
 using Newtonsoft.Json;
 
-namespace MonstervilleSecrets
+namespace BloomingMystery
 {
     public class PlayCheckGameLibrary : GameLibrary
     {
