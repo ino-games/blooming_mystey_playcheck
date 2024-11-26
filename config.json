@@ -5,10 +5,10 @@
   },
   "games": [
     {
-      "moduleId": 100793,
+      "moduleId": 100794,
       "clientIds": [40305,50305],
       "gameSettings": {
-        "templateProjectId": "BloomingMystery.100793"
+        "templateProjectId": "BloomingMystery.100794"
       }
     }
   ]
