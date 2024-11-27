@@ -1,15 +1,15 @@
 ﻿{
-  "pluginPath": "BloomingMystery.dll",
-  "globalSettngs": {
-    "skipAuditService": true
-  },
-  "games": [
-    {
-      "moduleId": 100795,
-      "clientIds": [40305,50305],
-      "gameSettings": {
-        "templateProjectId": "BloomingMystery.100795"
-      }
-    }
-  ]
+    "pluginPath": "BloomingMystery.dll",
+    "globalSettngs": {
+        "skipAuditService": true
+    },
+    "games": [
+        {
+            "moduleId": 100795,
+            "clientIds": [ 40305, 50305 ],
+            "gameSettings": {
+                "templateProjectId": "BloomingMystery.100795"
+            }
+        }
+    ]
 }
