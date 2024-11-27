@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>MonstervilleSecrets</AssemblyName>
-    <RootNamespace>MonstervilleSecrets</RootNamespace>
+    <AssemblyName>BloomingMystery</AssemblyName>
+    <RootNamespace>BloomingMystery</RootNamespace>
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
   </PropertyGroup>
   <PropertyGroup>
@@ -19,6 +19,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="images\100793\MonstervilleSecrets\" />
+    <Folder Include="images\100793\BloomingMystery\" />
   </ItemGroup>
 </Project>
