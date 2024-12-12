@@ -1,0 +1,33 @@
+﻿<strings>
+	<string key="gameMode" value="Modo de juego"/>
+	<string key="baseGame" value="Juego base"/>
+	<string key="scatters" value="Potenciador De Giros Gratis En Flor"/>
+	<string key="boostStatus" value="Potenciador activo"/>
+	<string key="boostActive" value="Sí"/>
+	<string key="boostInactive" value="No"/>
+	<string key="collectionValue" value="Fichas totales"/>
+	<string key="wins" value="Ganancias"/>
+	<string key="payline" value="Línea de pago"/>
+	<string key="winSum" value="Cantidad de ganancia"/>
+	<string key="multiplier" value="Multiplicador"/>
+	<string key="baseWin" value="Ganancia base"/>
+	<string key="winningSymbols" value="Símbolos ganadores"/>
+	<string key="freeSpins" value="Giros gratis"/>
+	<string key="spinsAwarded" value="Giros conseguidos"/>
+	<string key="trail" value="Recorrido"/>
+	<string key="spinsAdded" value="Giros gratis adicionales conseguidos"/>
+	<string key="updatedMultiplier" value="Aumento del multiplicador"/>
+	<string key="freeSpin" value="Giros Gratis En Flor"/>
+	<string key="bigHit" value="Bonificación De Comodines De Viernes"/>
+	<string key="explodingWild" value="Comodín De Araña Dorado"/>
+	<string key="respin" value="Giro Extra De Scatter Expansivo"/>
+	<string key="version" value="Versión"/>
+	<string key="gambleForBonus" value="Apostar por bonificación"/>
+	<string key="bet" value="Apuesta"/>
+	<string key="cost" value="Coste"/>
+	<string key="chanceToWin" value="Opción de ganancia"/>
+	<string key="gambleResult" value="Resultado de la apuesta"/>
+	<string key="gambleLost" value="Apuesta perdida"/>
+	<string key="gambleWon" value="Apuesta ganada"/>
+	<string key="buyBonus" value="Comprar bonificación"/>
+</strings>
